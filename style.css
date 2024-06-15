@@ -90,7 +90,7 @@ h2 {
     background-image: url('./images/manage.png');
 }
 .story_item:nth-child(3) {
-    background-image: url('/images/build.png');
+    background-image: url(/images/build.png);
 }
 
 
