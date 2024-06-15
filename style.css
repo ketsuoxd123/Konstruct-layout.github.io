@@ -84,10 +84,10 @@ h2 {
 }
 
 .story_item:nth-child(1) {
-    background-image: url('../images/plan.png');
+    background-image: url(/images/plan.png);
 }
 .story_item:nth-child(2) {
-    background-image: url('./images/manage.png');
+    background-image: url(/images/manage.png);
 }
 .story_item:nth-child(3) {
     background-image: url(/images/build.png);
@@ -193,7 +193,7 @@ h2 {
 
 
 .intro {
-    background-image: url(C:/site/images/bg.png);
+    background-image: url(/images/bg.png);
     max-width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -348,7 +348,7 @@ h2 {
 }
 
 .pre_footer {
-    background-image: url(../images/work.png);
+    background-image: url(/images/work.png);
     min-height: 499px;
     background-size: cover;
     background-repeat: no-repeat;
