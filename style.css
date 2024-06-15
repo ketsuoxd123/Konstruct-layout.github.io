@@ -87,7 +87,7 @@ h2 {
     background-image: url('../images/plan.png');
 }
 .story_item:nth-child(2) {
-    background-image: url(./images/manage.png);
+    background-image: url('./images/manage.png');
 }
 .story_item:nth-child(3) {
     background-image: url(./images/build.png);
